@@ -6,7 +6,7 @@ import time
 traject = []
 trajectp = []
 last_particle = 0
-from matplotlib.animation import FuncAnimation
+
 landmarks = [[20.0, 20.0], [80.0, 80.0], [20.0, 80.0], [80.0, 20.0]]
 world_size = 100.0
 p = []
